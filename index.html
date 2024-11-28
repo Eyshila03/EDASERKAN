@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.11.1/p5.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.11.1/addons/p5.sound.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <meta charset="utf-8" />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Geist+Mono:wght@100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Geist+Mono:wght@100..900&family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <main>
+      <div class="passo ativo" id="passo-0">
+<img src="logo.png">
+        <p>
+          Eda e Serkan, dois indivíduos de mundos opostos, sempre se odiaram. Eda, uma jovem apaixonada por paisagismo e ecologia, nunca aceitou os métodos frios e calculistas de Serkan, um arquiteto renomado que pensa apenas em lucros e grandes construções. Eles se cruzaram pela primeira vez durante uma reunião tensa, em que Serkan planejava destruir um parque ecológico para construir mais um arranha-céu. Desde então, a rivalidade cresceu, alimentada por cada confronto e provocação.</p>
+        <button class="proximo" data-proximo="1"> Eda decide lutar contra o casamento e desafia Serkan.
+</button>
+        
+          <button class="proximo" data-proximo="2"> Serkan decide tentar fazer o casamento funcionar
+</button>
+</div>
+      
+            <div class="passo" id="passo-1">
+<img src="logo.png">
+        <p>
+         Eda, com sua natureza teimosa e guerreira, se recusa a ceder. Ela confronta Serkan em todos os momentos, transformando a convivência em uma verdadeira batalha de vontades. Entre discussões acaloradas e trocas de farpas, algo inesperado surge – faíscas de uma paixão reprimida. Eda começa a questionar se essa guerra pode ter outro tipo de resultado.
+
+              </p>
+        <button class="proximo" data-proximo="3"> 
+        Eda provoca Serkan a tal ponto que ele finalmente se abre sobre seus sentimentos ocultos.
+</button>
+        
+          <button class="proximo" data-proximo="4"> 
+            Eda decide deixar o orgulho de lado e tenta, pela primeira vez, entender o mundo de Serkan.
+</button>
+</div>
+    <div class="passo" id="passo-2">
+<img src="logo.png">
+      <p>
+         Escolha do BOTÃO 2 (BOTÃO 5 e BOTÃO 6)
+Serkan, sempre calculista, decide que, já que não pode escapar do casamento, vai tentar controlá-lo da melhor maneira possível. Ele começa a manipular a situação, planejando maneiras de fazer Eda ceder a seus desejos e aceitar o casamento sem complicações. No entanto, ele subestima o coração apaixonado e indomável de Eda. Ao mesmo tempo, ele começa a perceber algo que nunca imaginou: que Eda desperta nele um sentimento que ele pensava estar imune.
+
+      </p>
+      
+      <button class="proximo" data-proximo="5">
+        Serkan decide jogar mais duro, tentando controlar cada passo de Eda.
+      </button>
+      
+      <button class="proximo" data-proximo="6">
+        Serkan admite a derrota, percebe que não pode manipular Eda, e considera se afastar.
+      </button>
+      </div>
+      
+        <div class="passo" id="passo-5">
+<img src="logo.png">
+      <p>
+        Serkan tenta controlar Eda a todo custo, mas percebe que ela é indomável. Quanto mais ele tenta manipular a situação, mais ela se afasta, aumentando a tensão entre eles. Ao mesmo tempo, ele percebe que, ao tentar controlá-la, está perdendo algo valioso – a chance de conhecer a verdadeira Eda e, quem sabe, amá-la.
+
+      </p>
+      
+      <button class="proximo" data-proximo="7">
+        Serkan finalmente desiste de tentar controlar tudo e decide ser vulnerável com Eda.
+      </button>
+      
+      <button class="proximo" data-proximo="8">
+        Serkan continua com sua manipulação, sem perceber que está prestes a perder Eda para sempre.
+      </button>
+      </div>
+      
+      <div class="passo" id="passo-6">
+<img src="perdeu.png">
+      <p>
+        Serkan, incapaz de lidar com a intensidade de seus sentimentos e o fracasso em controlá-los, decide se afastar de Eda. Esse afastamento, no entanto, é o fim para qualquer esperança de reconciliação. Eda segue em frente, reconstruindo sua vida sem Serkan, enquanto ele vive arrependido por nunca ter tido coragem de lutar pelo que realmente queria.
+
+      </p>
+      
+      <button class="proximo" data-proximo="0">
+        Reiniciar? 🕹
+      </button>
+
+      </div>
+    
+        <div class="passo" id="passo-7">
+<img src="ganhou.png">
+      <p>
+        Serkan, ao decidir ser vulnerável, cria uma nova oportunidade para seu relacionamento com Eda. Ao se abrir sobre suas inseguranças e medos, ele permite que Eda veja o lado humano dele. Eda, por sua vez, reconhece a mudança e os dois finalmente encontram um equilíbrio, onde o amor floresce, deixando para trás a rivalidade.
+
+      </p>
+      
+      <button class="proximo" data-proximo="0">
+           Reiniciar? 🕹
+      </button>
+    
+      </div>
+      
+        <div class="passo" id="passo-8">
+<img src="logo.png">
+      <p>
+        Após essa jornada, você pode voltar para o início e explorar outras possibilidades.
+
+      </p>
+      
+      <button class="proximo" data-proximo="3">
+        Eda provoca Serkan a tal ponto que ele finalmente se abre sobre seus sentimentos ocultos.
+      </button>
+      
+      <button class="proximo" data-proximo="4">
+        Eda decide deixar o orgulho de lado e tenta, pela primeira vez, entender o mundo de Serkan.
+      </button>
+      </div>
+      
+        <div class="passo" id="passo-3">
+<img src="logo.png">
+      <p>
+        Eda, com sua natureza provocadora, faz com que Serkan revele algo que ele esconde há muito tempo – seu desejo secreto por ela. O conflito entre os dois atinge um novo nível, entre o desejo e o ódio que sentem um pelo outro. Serkan admite seus sentimentos, mas Eda fica dividida entre o que sente e o orgulho que ainda a domina.
+
+
+      </p>
+      
+      <button class="proximo" data-proximo="9">
+        Eda decide ceder aos seus sentimentos e dá uma chance ao relacionamento.
+      </button>
+      
+      <button class="proximo" data-proximo="10">
+         Eda se afasta de Serkan, incapaz de lidar com a confusão de sentimentos.
+      </button>
+      </div>
+      
+    <div class="passo" id="passo-4">
+<img src="ganhou.png">
+      <p>
+        Eda, ao decidir entender Serkan, descobre camadas que nunca imaginou. Ele não é o homem frio que aparenta ser. Por trás daquela fachada, existe um homem que carrega suas próprias feridas e cicatrizes. Eles começam a se abrir um para o outro, e, gradualmente, a rivalidade se transforma em uma forte conexão. Contra todas as expectativas, o casamento arranjado se transforma em uma parceria verdadeira, e Eda e Serkan percebem que, juntos, são muito mais fortes do que separados.
+      </p>
+      
+      <button class="proximo" data-proximo="0">
+           Reiniciar? 🕹
+      </button>
+      
+      </div>
+      
+        <div class="passo" id="passo-10">
+<img src="perdeu.png">
+      <p>
+        Eda, incapaz de lidar com seus sentimentos por Serkan, se afasta. O orgulho fala mais alto e, embora houvesse amor entre eles, ele nunca teve a chance de florescer. Cada um segue seu caminho, mas com a amarga sensação do "e se" que sempre ficará entre eles.
+
+      </p>
+      
+      <button class="proximo" data-proximo="0">
+        Reiniciar? 🕹
+      </button>
+      
+      </div>
+            <div class="passo" id="passo-9">
+<img src="ganhou.png">
+      <p>
+        Eda decide ceder aos seus sentimentos, e o relacionamento com Serkan floresce. A rivalidade é substituída por uma paixão intensa, e o casamento arranjado se transforma no início de um amor verdadeiro, provando que o destino tinha algo reservado para eles desde o início.
+
+      </p>
+      
+              
+      <button class="proximo" data-proximo="0">
+           Reiniciar? 🕹
+      </button>
+      
+
+      </div>
+         
+      
+      
+    </main>
+    
+    
+    <footer>
+      <p> criado por <a href="https://githud.com/eyshila03"> Eyshila cristina carvalho cardoso</a></p>
+    </footer>               
+    <script src="sketch.js"></script>
+  </body>
+</html>

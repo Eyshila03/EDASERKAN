@@ -1,0 +1,72 @@
+[02:22, 06/10/2024] : Pronto
+[02:22, 06/10/2024]  : PASSO 0 - Introdução (BOTÃO 1 e BOTÃO 2)
+Eda e Serkan, dois indivíduos de mundos opostos, sempre se odiaram. Eda, uma jovem apaixonada por paisagismo e ecologia, nunca aceitou os métodos frios e calculistas de Serkan, um arquiteto renomado que pensa apenas em lucros e grandes construções. Eles se cruzaram pela primeira vez durante uma reunião tensa, em que Serkan planejava destruir um parque ecológico para construir mais um arranha-céu. Desde então, a rivalidade cresceu, alimentada por cada confronto e provocação.
+
+Mas, por ironia do destino, um acordo entre suas famílias resultou em um casamento arranjado. Nem Eda nem Serkan queriam isso, mas as tradições familiares e os interesses empresariais falaram mais alto. Agora, presos em um casamento forçado, eles têm duas opções para enfrentar a situação.
+
+Escolha:
+BOTÃO 1: Eda decide lutar contra o casamento e desafia Serkan.
+BOTÃO 2: seu modo calculista.Serkan decide tentar fazer o casamento funcionar, ao 
+PASSO 1 - Escolha do BOTÃO 1 (BOTÃO 3 e BOTÃO 4)
+Eda, com sua natureza teimosa e guerreira, se recusa a ceder. Ela confronta Serkan em todos os momentos, transformando a convivência em uma verdadeira batalha de vontades. Entre discussões acaloradas e trocas de farpas, algo inesperado surge – faíscas de uma paixão reprimida. Eda começa a questionar se essa guerra pode ter outro tipo de resultado.
+
+Escolha:
+BOTÃO 3: Eda provoca Serkan a tal ponto que ele finalmente se abre sobre seus sentimentos ocultos.
+BOTÃO 4: Eda decide deixar o orgulho de lado e tenta, pela primeira vez, entender o mundo de Serkan.
+PASSO 2 - Escolha do BOTÃO 2 (BOTÃO 5 e BOTÃO 6)
+Serkan, sempre calculista, decide que, já que não pode escapar do casamento, vai tentar controlá-lo da melhor maneira possível. Ele começa a manipular a situação, planejando maneiras de fazer Eda ceder a seus desejos e aceitar o casamento sem complicações. No entanto, ele subestima o coração apaixonado e indomável de Eda. Ao mesmo tempo, ele começa a perceber algo que nunca imaginou: que Eda desperta nele um sentimento que ele pensava estar imune.
+
+Escolha:
+BOTÃO 5: Serkan decide jogar mais duro, tentando controlar cada passo de Eda.
+BOTÃO 6: Serkan admite a derrota, percebe que não pode manipular Eda, e considera se afastar.
+PASSO 3 - Escolha do BOTÃO 3 (BOTÃO 9 e BOTÃO 10)
+Eda, com sua natureza provocadora, faz com que Serkan revele algo que ele esconde há muito tempo – seu desejo secreto por ela. O conflito entre os dois atinge um novo nível, entre o desejo e o ódio que sentem um pelo outro. Serkan admite seus sentimentos, mas Eda fica dividida entre o que sente e o orgulho que ainda a domina.
+
+Escolha:
+BOTÃO 9: Eda decide ceder aos seus sentimentos e dá uma chance ao relacionamento.
+BOTÃO 10: Eda se afasta de Serkan, incapaz de lidar com a confusão de sentimentos.
+PASSO 4 - Escolha do BOTÃO 4 (GANHOU)
+Eda, ao decidir entender Serkan, descobre camadas que nunca imaginou. Ele não é o homem frio que aparenta ser. Por trás daquela fachada, existe um homem que carrega suas próprias feridas e cicatrizes. Eles começam a se abrir um para o outro, e, gradualmente, a rivalidade se transforma em uma forte conexão. Contra todas as expectativas, o casamento arranjado se transforma em uma parceria verdadeira, e Eda e Serkan percebem que, juntos, são muito mais fortes do que separados.
+
+Você ganhou. O amor prevaleceu.
+
+PASSO 5 - Escolha do BOTÃO 5 (BOTÃO 7 e BOTÃO 8)
+Serkan tenta controlar Eda a todo custo, mas percebe que ela é indomável. Quanto mais ele tenta manipular a situação, mais ela se afasta, aumentando a tensão entre eles. Ao mesmo tempo, ele percebe que, ao tentar controlá-la, está perdendo algo valioso – a chance de conhecer a verdadeira Eda e, quem sabe, amá-la.
+
+Escolha:
+BOTÃO 7: Serkan finalmente desiste de tentar controlar tudo e decide ser vulnerável com Eda.
+BOTÃO 8: Serkan continua com sua manipulação, sem perceber que está prestes a perder Eda para sempre.
+PASSO 6 - Escolha do BOTÃO 6 (PERDEU)
+Serkan, incapaz de lidar com a intensidade de seus sentimentos e o fracasso em controlá-los, decide se afastar de Eda. Esse afastamento, no entanto, é o fim para qualquer esperança de reconciliação. Eda segue em frente, reconstruindo sua vida sem Serkan, enquanto ele vive arrependido por nunca ter tido coragem de lutar pelo que realmente queria.
+
+Você perdeu.
+
+PASSO 7 - Escolha do BOTÃO 7 (GANHOU)
+Serkan, ao decidir ser vulnerável, cria uma nova oportunidade para seu relacionamento com Eda. Ao se abrir sobre suas inseguranças e medos, ele permite que Eda veja o lado humano dele. Eda, por sua vez, reconhece a mudança e os dois finalmente encontram um equilíbrio, onde o amor floresce, deixando para trás a rivalidade.
+
+Você ganhou. O amor venceu.
+
+PASSO 8 - Volta para PASSO 1
+Após essa jornada, você pode voltar para o início e explorar outras possibilidades.
+
+PASSO 9 - GANHOU
+Eda decide ceder aos seus sentimentos, e o relacionamento com Serkan floresce. A rivalidade é substituída por uma paixão intensa, e o casamento arranjado se transforma no início de um amor verdadeiro, provando que o destino tinha algo reservado para eles desde o início.
+
+Você ganhou. O amor prevaleceu.
+
+PASSO 10 - PERDEU
+Eda, incapaz de lidar com seus sentimentos por Serkan, se afasta. O orgulho fala mais alto e, embora houvesse amor entre eles, ele nunca teve a chance de florescer. Cada um segue seu caminho, mas com a amarga sensação do "e se" que sempre ficará entre eles.
+
+Você perdeu.
+
+Essa narrativa oferece múltiplos caminhos que refletem as complexidades do relacionamento entre Eda e Serkan, mesclando amor, ódio e rivalidade.
+
+
+
+
+
+
+
+
+
+
